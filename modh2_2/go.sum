@@ -1,5 +1,10 @@
 github.com/gohugoio/hugoTestModules1_windows v0.0.0-20201018084051-7fd5876e99cd h1:uuCi6Y6GReARNpPcCWOIwEEhgY9FMan3vkjMB4Ug/Pg=
+github.com/gohugoio/hugoTestModules1_windows v0.0.0-20201018084109-66e3307f2e6f h1:6Rh8WbKztcsB0BCR31ugrmcXQbvn8I0AEVJBd5Rmkzs=
 github.com/gohugoio/hugoTestModules1_windows/modh2_2_1v v0.0.0-20201018084051-7fd5876e99cd h1:TfnW/OZjJfEs+6H0k/LtxNGR/p+mYwvwPkPtbcAnEiM=
 github.com/gohugoio/hugoTestModules1_windows/modh2_2_1v v0.0.0-20201018084051-7fd5876e99cd/go.mod h1:PcQgvq670jzqYTSyYUOFPzIOFT9fQifw9MaTvMhHHsE=
+github.com/gohugoio/hugoTestModules1_windows/modh2_2_1v v1.0.0 h1:eyg2TFtToavFzRIM/wRmjGIcDrJRMglX0RiXvM7ih88=
+github.com/gohugoio/hugoTestModules1_windows/modh2_2_1v v1.0.0/go.mod h1:PcQgvq670jzqYTSyYUOFPzIOFT9fQifw9MaTvMhHHsE=
 github.com/gohugoio/hugoTestModules1_windows/modh2_2_2 v0.0.0-20201018084051-7fd5876e99cd h1:IQX7SiVqckwys2M+dWT+F9sq2taaRfiHF2uZfARrQak=
 github.com/gohugoio/hugoTestModules1_windows/modh2_2_2 v0.0.0-20201018084051-7fd5876e99cd/go.mod h1:tVdZ22s6FuFTYOfO+SscFjG+vQbc1iy0IPoTy4f2m5k=
+github.com/gohugoio/hugoTestModules1_windows/modh2_2_2 v1.0.0 h1:Wn5mfldF1577U6N5/ZU6JjQyzipNRjk9yeXoxq8JyCo=
+github.com/gohugoio/hugoTestModules1_windows/modh2_2_2 v1.0.0/go.mod h1:tVdZ22s6FuFTYOfO+SscFjG+vQbc1iy0IPoTy4f2m5k=
