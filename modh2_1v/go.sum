@@ -1,0 +1,5 @@
+github.com/gohugoio/hugoTestModules1_windows v0.0.0-20201018084051-7fd5876e99cd h1:uuCi6Y6GReARNpPcCWOIwEEhgY9FMan3vkjMB4Ug/Pg=
+github.com/gohugoio/hugoTestModules1_windows/modh2_1_1v v0.0.0-20201018084051-7fd5876e99cd h1:l9t3jIjd2Ja25nPQ7lOJyoyrPR7lMLRT5Rx/MrUDCPU=
+github.com/gohugoio/hugoTestModules1_windows/modh2_1_1v v0.0.0-20201018084051-7fd5876e99cd/go.mod h1:yCEpSCd7d8bAA5UoStT8jyJw2D6KhAUoNnuCcRX5tuk=
+github.com/gohugoio/hugoTestModules1_windows/modh2_1_2 v0.0.0-20201018084051-7fd5876e99cd h1:ChP+FNcnF/re19f4CMaURDGtWT4HDkAAnOKndhuKwN8=
+github.com/gohugoio/hugoTestModules1_windows/modh2_1_2 v0.0.0-20201018084051-7fd5876e99cd/go.mod h1:eBMBkNrbjxm8DkBk9wrLW2P1CG9YwRHORG9YQxQMOmA=

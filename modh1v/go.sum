@@ -1,0 +1,13 @@
+github.com/gohugoio/hugoTestModules1_windows v0.0.0-20201018084051-7fd5876e99cd h1:uuCi6Y6GReARNpPcCWOIwEEhgY9FMan3vkjMB4Ug/Pg=
+github.com/gohugoio/hugoTestModules1_windows/modh1_1_1v v0.0.0-20201018084051-7fd5876e99cd h1:XH/l0ApbEPplqaAKzsSzCEOqo28Nxs9zoJ2C+gCOZt0=
+github.com/gohugoio/hugoTestModules1_windows/modh1_1_1v v0.0.0-20201018084051-7fd5876e99cd/go.mod h1:CyZviR3z0StWF/jh9NpH12iekoOqoZIIQOrs0b8fD1c=
+github.com/gohugoio/hugoTestModules1_windows/modh1_1_2 v0.0.0-20201018084051-7fd5876e99cd h1:KzKEAmKDd+fJesJCEipK8ZCb3o7tApPm+GiOSgtb6L8=
+github.com/gohugoio/hugoTestModules1_windows/modh1_1_2 v0.0.0-20201018084051-7fd5876e99cd/go.mod h1:DgP0rJA5SZY9V7RxDveuHgLmYrf8aWL+wPiy5eMgKM0=
+github.com/gohugoio/hugoTestModules1_windows/modh1_1v v0.0.0-20201018084051-7fd5876e99cd h1:mw5wWLAgD0+/R+YHSKBRBJbWVY90TBrFww1yLso6dT8=
+github.com/gohugoio/hugoTestModules1_windows/modh1_1v v0.0.0-20201018084051-7fd5876e99cd/go.mod h1:/KZulj9ZZAKjlOvb2oNpuq0eOn7sVeWsOVUGj38Ufjw=
+github.com/gohugoio/hugoTestModules1_windows/modh1_2 v0.0.0-20201018084051-7fd5876e99cd h1:KKVeHwmLtj7aSY1gpFzgsEkHbvV8gluO3jZCyrT/z1Q=
+github.com/gohugoio/hugoTestModules1_windows/modh1_2 v0.0.0-20201018084051-7fd5876e99cd/go.mod h1:JSXEN6hOWhfeHZEpGIKGPqSPfi1xJ0ttcYKul47HAoY=
+github.com/gohugoio/hugoTestModules1_windows/modh1_2_1v v0.0.0-20201018084051-7fd5876e99cd h1:00Bdqr04TIWdD6fKeaAV86VaWEnLZfGMBKsitXIU8mc=
+github.com/gohugoio/hugoTestModules1_windows/modh1_2_1v v0.0.0-20201018084051-7fd5876e99cd/go.mod h1:bHsIdUayoLzIMh/wJMK3LdJ7rtYDXDUNjohXuHkAibE=
+github.com/gohugoio/hugoTestModules1_windows/modh1_2_2 v0.0.0-20201018084051-7fd5876e99cd h1:m8zilSD7aAi8o7gc/z8gi5wJa4eSVcHYfbUqHnSmv04=
+github.com/gohugoio/hugoTestModules1_windows/modh1_2_2 v0.0.0-20201018084051-7fd5876e99cd/go.mod h1:z1xZcnEncnU/yqBbmSAgjcl8QZl3dh4k/pt+4hH5TmM=
