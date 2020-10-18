@@ -1,4 +1,9 @@
+github.com/gohugoio/hugoTestModules1_windows v0.0.0-20201018084228-b7ff9a09450f h1:X1WbmOA4DSjSHhkkRp4ugygnEVOr7p1X2O12kSTGN5Y=
 github.com/gohugoio/hugoTestModules1_windows/modh1_1_1v v1.3.0 h1:nDtd7nR9QBccxTKIRwFS2JpiP5Tn2XUBvB7qANAcRzU=
 github.com/gohugoio/hugoTestModules1_windows/modh1_1_1v v1.3.0/go.mod h1:CyZviR3z0StWF/jh9NpH12iekoOqoZIIQOrs0b8fD1c=
+github.com/gohugoio/hugoTestModules1_windows/modh1_1_1v v1.4.0 h1:TNC+DK/e3jMtKrbFNMGD4ThEDQDm6NS8JzvO5Z8L92s=
+github.com/gohugoio/hugoTestModules1_windows/modh1_1_1v v1.4.0/go.mod h1:CyZviR3z0StWF/jh9NpH12iekoOqoZIIQOrs0b8fD1c=
 github.com/gohugoio/hugoTestModules1_windows/modh1_1_2 v1.3.0 h1:HISNTlkB+4vylB5sUgpRj8/YZS6TrhFz8GqVdEyz8+Q=
 github.com/gohugoio/hugoTestModules1_windows/modh1_1_2 v1.3.0/go.mod h1:DgP0rJA5SZY9V7RxDveuHgLmYrf8aWL+wPiy5eMgKM0=
+github.com/gohugoio/hugoTestModules1_windows/modh1_1_2 v1.4.0 h1:nVTgEG8cnOSFmVIT8xxonXNRO7pZoWPIbZZzGbaxqPk=
+github.com/gohugoio/hugoTestModules1_windows/modh1_1_2 v1.4.0/go.mod h1:DgP0rJA5SZY9V7RxDveuHgLmYrf8aWL+wPiy5eMgKM0=
